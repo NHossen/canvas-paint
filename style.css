@@ -1,0 +1,17 @@
+html {
+    font-family: sans-serif;
+  }
+  canvas {
+    background: rgb(253, 96, 79);
+    border: 1px solid rgb(253, 96, 79);
+  }
+  a {
+    display: inline-block;
+    background: rgb(0, 0, 0);
+    color: #fff;
+    padding: 5px 10px;
+  }
+  p {
+    color: aquamarine;
+    font-size: 30px;
+  }
